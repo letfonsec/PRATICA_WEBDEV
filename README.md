@@ -1,5 +1,5 @@
 # PRATICA_WEBDEV
-´´´´HTML
+´´´HTML
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -45,4 +45,4 @@
 </div>
 </body>
 
-</html>
+</html>```
