@@ -12,6 +12,7 @@
         width: 1080px;
         height: 800px;
         background-color: black;
+        margin:auto;
     }
 
 
